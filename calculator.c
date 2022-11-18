@@ -51,6 +51,9 @@ void tangent();
 int main()
 {
     system("cls");
+//printf("Welcome to Zahidul Islam Master Calculator");
+    //printf("Choose any one for continue Zahids Calculator");
+
     printf("Press 1 for Simple Calculator\n");
     printf("Press 2 for Scientific Calculator\n");
     printf("Press 3 for Converter Calculator\n");
@@ -58,7 +61,7 @@ int main()
     int n;
     int s_number;
     int c_number;
-    printf("Enter Your Choice...");
+    printf("Enter Your Choice... :) ==>>>>> ");
     scanf("%d", &n);
     system("cls");
     while(n > 0 && n <= 4){
