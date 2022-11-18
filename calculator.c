@@ -1,3 +1,7 @@
+//Md Zahidil Islam
+//Daffodil International University
+//221-35-1082
+//Whatsapp: +8801878658595
 
 #include<stdio.h>
 #include<math.h>
